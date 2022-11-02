@@ -1,0 +1,18 @@
+body {
+    font-family: Microsoft JhengHei;
+}
+.banner {
+    background-color: white;
+    width: 100%;
+    height: auto;
+    margin-top: 3.5rem;
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+.title {
+    color: #FA8072;
+    font-weight: bold;
+}
